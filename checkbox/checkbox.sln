@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "checkbox", "checkbox\", "{2CEE6D2C-E13F-4FD7-8F04-73DBEADEDB01}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64381"
+		Debug.AspNetCompiler.PhysicalPath = "checkbox\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64381\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64381"
+		Release.AspNetCompiler.PhysicalPath = "checkbox\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64381\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64381"
+		SlnRelativePath = "checkbox\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEE6D2C-E13F-4FD7-8F04-73DBEADEDB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEE6D2C-E13F-4FD7-8F04-73DBEADEDB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3224D04-5E12-4C57-A375-1D125C228FDD}
+	EndGlobalSection
+EndGlobal
